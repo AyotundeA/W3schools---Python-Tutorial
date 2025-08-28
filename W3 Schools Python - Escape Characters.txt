@@ -1,0 +1,21 @@
+﻿Python - Escape Characters
+Escape Character
+To insert characters that are illegal in a string, use an escape character.
+An escape character is a backslash \ followed by the character you want to insert.
+An example of an illegal character is a double quote inside a string that is surrounded by double quotes:
+Example 
+You will get an error if you use double quotes inside a string that is surrounded by double quotes:
+txt = "We are the so-called "Vikings" from the north."
+To fix this problem, use the escape character \":
+Example
+The escape character allows you to use double quotes when you normally would not be allowed:
+txt = "We are the so-called \"Vikings\" from the north."
+Escape Characters
+Other escape characters used in Python:
+CodeResult\'Single Quote\\Backslash\nNew Line\rCarriage Return\tTab\bBackspace\fForm Feed\oooOctal value\xhhHex value
+Keywords:
+Illegal character - An illegal character is a character that is not allowed in a specific context-such as in a variable name, a file name, or a string literal due to syntax or encoding rules.
+Carriage Return - A control character that moves the cursor to the beginning of the current line without advancing to the next line. Used mostly in older systems (like classic Macs) and in Windows (\r\n) for line breaks.
+Form Feed - A rarely used control character that advances the paper feed in printers to the next page. In modern systems, it's mostly symbolic or ignored.
+Octal value - A number written in base 8, using digits 0-7. In Python, octal literals are written with a prefix 0o or 0O.
+Hex value - A number written in base 16, using digits 0-9 and letters A-F. In Python, hex values start with 0x.

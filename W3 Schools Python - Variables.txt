@@ -1,0 +1,57 @@
+W3 Schools  - Python Variables
+Variables
+Variables are containers for storing data values.
+Creating Variables
+Python has no command for declaring a variable.
+A variable is created the moment you first assign a value to it.
+Example 
+x = 5
+y = "John"
+print(x)
+print(y)
+Variables do not need to be declared with any particular type, and can even change type after they have been set.
+Example
+x = 4       # x is of type int
+x = "Sally" # x is now of type str
+print(x)
+Casting
+If you want to specify the data type of a variable, this can be done with casting.
+Example
+x = str(3)    # x will be '3'
+y = int(3)    # y will be 3
+z = float(3)  # z will be 3.0
+Get the Type
+You can get the data type of a variable with the type() function.
+Example
+x = 5
+y = "John"
+print(type(x))
+print(type(y))
+You will learn more about data types and casting later in this tutorial.
+Single or Double Quotes?
+String variables can be declared either by using single or double quotes:
+Example
+x = "John"
+# is the same as
+x = 'John'
+Case-Sensitive
+Variable names are case-sensitive.
+Example
+This will create two variables:
+a = 4
+A = "Sally"
+#A will not overwrite a
+Keywords:
+Data Values - The actual information or content stored in a variable or used in a program. Examples include numbers like 42, text like "hello", or Boolean values like True.
+Particular Type - Refers to the specific kind of value or data a variable holds—such as an integer, string, or list. For example, 5 is of the particular type integer.
+Data Type - A classification that specifies what kind of data a value or variable can hold. Common data types include:
+•	int (integer)
+•	float (decimal number)
+•	str (string/text)
+•	bool (Boolean: True or False)
+•	list, dict, etc.
+Casting - The process of converting a value from one data type to another.
+Type() Function - A built-in Python function that returns the data type of a given value or variable.
+Function - A reusable block of code that performs a specific task. It can take inputs (parameters), perform actions, and return a result.
+Variable - A named storage location in memory used to hold data. The value stored can change (hence variable).
+

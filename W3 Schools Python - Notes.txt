@@ -1,0 +1,61 @@
+Characteristics of Python
+Following are important characteristics of Python Programming −
+•	It supports functional and structured programming methods as well as OOP.
+•	It can be used as a scripting language or can be compiled to byte-code for building large applications.
+•	It provides very high-level dynamic data types and supports dynamic type checking.
+•	It supports automatic garbage collection.
+•	It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java.
+Applications of Python
+•	Python is a general purpose programming language known for its readability. It is widely applied in various fields.
+•	In Data Science, Python libraries like Numpy, Pandas, and Matplotlib are used for data analysis and visualization.
+•	Python frameworks like Django, and Pyramid, make the development and deployment of Web Applications easy.
+•	This programming language also extends its applications to computer vision and image processing.
+•	It is also favored in many tasks like Automation, Job Scheduling, GUI development, etc.
+
+Keywords:
+Programming and Concepts
+OOP (Object-Oriented Programming)
+A programming paradigm based on the concept of "objects", which contain data and code that manipulates that data. Common principles include encapsulation, inheritance, and polymorphism.
+C
+A general-purpose, procedural programming language developed in the early 1970s. Known for its efficiency and close-to-hardware control, it's widely used in system/software development.
+C++
+An extension of the C programming language that includes object-oriented features. It supports both procedural and object-oriented programming, often used for system/software development, games, and real-time simulations.
+________________________________________
+Component and Interface Technologies
+COM (Component Object Model)
+A Microsoft-developed interface standard for enabling interprocess communication and dynamic object creation in a large range of programming languages.
+ActiveX
+A Microsoft framework based on COM, used to embed and link software components in web browsers and applications, mainly in Internet Explorer.
+CORBA (Common Object Request Broker Architecture)
+A standard defined by the Object Management Group (OMG) that allows communication between various software written in different languages across different platforms.
+________________________________________
+Languages and Frameworks
+Java
+A high-level, class-based, object-oriented programming language designed to have as few implementation dependencies as possible. Widely used in enterprise applications, mobile development (Android), and web servers.
+________________________________________
+Data Science Tools
+Data Science
+An interdisciplinary field that uses scientific methods, algorithms, and systems to extract knowledge and insights from structured and unstructured data.
+Numpy
+A Python library used for numerical computing. It provides support for arrays, matrices, and high-level mathematical functions.
+Pandas
+A Python library for data manipulation and analysis, offering data structures like DataFrames for handling structured data.
+Matplotlib
+A Python plotting library used to create static, interactive, and animated visualisations in Python.
+________________________________________
+Web Frameworks
+Django
+A high-level Python web framework that encourages rapid development and clean, pragmatic design. It follows the "batteries-included" philosophy.
+Pyramid
+A lightweight, flexible Python web framework that is part of the Pylons Project. It allows developers to scale from small applications to large systems.
+________________________________________
+Graphical User Interface (GUI) Development
+GUI Development
+The process of creating graphical interfaces for software applications, allowing users to interact with programs visually rather than via text commands.
+Windows MFC (Microsoft Foundation Class Library)
+A set of classes in C++ that encapsulate parts of the Windows API to simplify GUI development for Windows applications.
+Macintosh
+Refers to Apple's line of computers (now called Macs) and their native GUI development typically involves frameworks like Cocoa and Swift.
+Unix
+A family of multitasking, multiuser operating systems that includes many variants (Linux, BSD). GUI development on Unix systems often involves libraries like GTK or Qt.
+
